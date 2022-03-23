@@ -1,0 +1,2 @@
+# kawpow-pool
+Scrypt NOMP DIRTY HARRY KAWPOW POOL MINER
